@@ -11,7 +11,7 @@
 - [Current Limitations](#current-limitations)
 - [Break the Limitations](#break-the-limitations)
 
-**Hardware and Software Specifications**
+### Hardware and Software Specifications
 
 Processor: Ryzen 5 2600. 6 Cores. 3.40 GHz.
 RAM: 32GB 2800 MHz Overclocked to 3000 MHz XMP Dual Channel.
@@ -19,11 +19,11 @@ Graphics card: GTX 1060 6GB
 OS: Win 11 V22H2
 Unity: 2021.3.6f1
 
-**Performance Goals**
+### Performance Goals
 
 Running the scene on my machine with 10,000 Actors and 10,000 Max Marbles gave me around 1 – 3 FPS. That sets my goal to reach around 40 FPS if we take the average.
 
-**Performance Tools**
+### Performance Tools
 
 - Profiler: Most of the time taken is inside the ActorBehavior scripts.
 
